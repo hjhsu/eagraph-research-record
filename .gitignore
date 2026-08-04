@@ -1,0 +1,13 @@
+# Private source records are represented by hashes, not copied here.
+restricted/
+private/
+source_records/
+workspaces/
+transcripts/
+canaries/
+requesters/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
