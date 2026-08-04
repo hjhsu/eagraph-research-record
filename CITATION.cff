@@ -19,6 +19,7 @@ authors:
     affiliation: National Yang Ming Chiao Tung University
 version: 0.1.0
 date-released: 2026-08-05
+doi: 10.5281/zenodo.21797353
 abstract: >-
   Public decision, preregistration, result, incident, and claim audit trail for
   the EA-Graph generated-testbed study.

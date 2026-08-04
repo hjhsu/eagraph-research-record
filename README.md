@@ -28,8 +28,8 @@ any public result table.
 
 ## Citation and versioning
 
-Use `CITATION.cff` to cite release `v0.1.0`. Its archival DOI will be added after
-Zenodo finishes processing the release.
+Use `CITATION.cff` to cite release `v0.1.0`, archived at
+[doi:10.5281/zenodo.21797353](https://doi.org/10.5281/zenodo.21797353).
 
 ## License
 

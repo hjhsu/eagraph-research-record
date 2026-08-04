@@ -12,8 +12,8 @@ The following decisions remain open:
 - [x] Choose licenses (CC BY 4.0 for this research record; Apache-2.0 for the
       benchmark-structure repository; CC BY 4.0 for the paper source).
 - [ ] Verify third-party rights.
-- [ ] Create an immutable release and DOI; insert it in the paper and both
-      citation files.
+- [x] Create `v0.1.0` releases and archive them with Zenodo; insert version DOIs
+      in the paper bibliography and both citation files.
 - [ ] Review the complete public tree for source IDs, local paths, personal
       data, hidden answers, acceptance vectors, and canary values.
 - [ ] Verify that public aggregate values agree with the frozen paper source.
