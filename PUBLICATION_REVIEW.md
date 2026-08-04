@@ -17,4 +17,4 @@ The following decisions remain open:
 - [ ] Review the complete public tree for source IDs, local paths, personal
       data, hidden answers, acceptance vectors, and canary values.
 - [ ] Verify that public aggregate values agree with the frozen paper source.
-- [ ] Compile and visually inspect the arXiv source in TeX Live 2025.
+- [x] Compile and visually inspect the arXiv source on Overleaf.
