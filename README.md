@@ -28,8 +28,8 @@ any public result table.
 
 ## Citation and versioning
 
-Use `CITATION.cff` to cite this repository. It will be archived as an immutable
-release and assigned a DOI; the DOI will be added after that release exists.
+Use `CITATION.cff` to cite release `v0.1.0`. Its archival DOI will be added after
+Zenodo finishes processing the release.
 
 ## License
 

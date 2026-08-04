@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Citation metadata is provisional until the first archived release."
+message: "If you use this research record, please cite it using this metadata."
 title: "EA-Graph Research Record"
 type: dataset
 license: CC-BY-4.0
@@ -17,7 +17,8 @@ authors:
   - family-names: Everett
     given-names: Hanna
     affiliation: National Yang Ming Chiao Tung University
-version: 0.1.0-draft
+version: 0.1.0
+date-released: 2026-08-05
 abstract: >-
   Public decision, preregistration, result, incident, and claim audit trail for
   the EA-Graph generated-testbed study.
